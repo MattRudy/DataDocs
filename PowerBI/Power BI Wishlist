@@ -1,4 +1,14 @@
 I've had a personal wishlist for years while using Power BI, and continue to watch the features gradually get added over time.
 This file serves to track them and document resolutions.
 
+Resolution Types:
+ET - External Tool (This is not addressed in the core product)
+PR - Partially Resolved (There is a partial solution to the issue)
+
+
+#1 - Ability to identify and remove unused columns and measures from a dataset, including linked reports if it's a shared dataset.
+  ET - The BPA tool inside Tabular Editor can identify columns and measure not used within that dataset (but not linked reports) and they can be removed manually.
+
+#2 - Ability to branch-and-merge Power BI (pbix) files
+
 (More coming soon)

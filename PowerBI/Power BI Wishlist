@@ -11,4 +11,13 @@ PR - Partially Resolved (There is a partial solution to the issue)
 
 #2 - Ability to branch-and-merge Power BI (pbix) files
 
+#3 - Ability to version-control PBIX files on desktop (view changes, rollback to previous version)
+
+#4 - Ability to version-control Datasets on Power BI Service (view changes, rollback to previous version)
+
+#5 - Ability to version-control Dataflows on Power BI Service (view changes, rollback to previous version)
+  ET - Can be accomplished by tracking json definitions with change-control software like git
+
+#6 - Ability to version-control Reports on Power BI Service (view changes, rollback to previous 
+
 (More coming soon)

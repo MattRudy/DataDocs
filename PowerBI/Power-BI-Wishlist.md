@@ -22,7 +22,7 @@ This file serves to track them and document resolutions.
 
 ### ~~#7 - Prevent visuals and other onjects from jumping out of layer order when clicked~~
   PR - Could be addressed on objects with bookmark actions and bookmarks on selected visuals to turn clicks into null-navigation events
-  FX - Maintain Layer Order was added as a formatting option in September 2020
+<br>  FX - Maintain Layer Order was added as a formatting option in September 2020
 
 
 (More coming soon)

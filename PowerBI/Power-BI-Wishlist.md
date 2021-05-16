@@ -7,7 +7,7 @@ This file serves to track them and document resolutions.
 <br>FX - Fixed
 
 ### #1 - Ability to identify and remove unused columns and measures from a dataset, including linked reports if it's a shared dataset.
-  ET - The BPA tool inside Tabular Editor can identify columns and measure not used within that dataset (but not linked reports) and they can be removed manually.
+  ET - The [BPA tool inside Tabular Editor](https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/) can identify columns and measure not used within that dataset (but not linked reports) and they can be removed manually.
 
 ### #2 - Ability to branch-and-merge Power BI (pbix) files
 
@@ -23,7 +23,7 @@ This file serves to track them and document resolutions.
 
 ### ~~#7 - Prevent visuals and other onjects from jumping out of layer order when clicked~~
   PR - Could be addressed on objects with bookmark actions and bookmarks on selected visuals to turn clicks into null-navigation events
-<br>  FX - Maintain Layer Order was added as a formatting option in September 2020
+<br>  FX - [Maintain Layer Order](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/#Maintain_layer_order) was added as a formatting option in September 2020
 
 
 (More coming soon)

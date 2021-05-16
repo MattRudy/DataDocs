@@ -12,6 +12,7 @@ This file serves to track them and document resolutions.
 ### #2 - Ability to branch-and-merge Power BI (pbix) files
 
 ### #3 - Ability to version-control PBIX files on desktop (view changes, rollback to previous version)
+  PR - (2021-05-15) Microsoft [Announced](https://powerbi.microsoft.com/en-us/blog/announcing-support-for-backup-and-restore-of-power-bi-datasets/) a [Backup and Restore feature](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-backup-restore-dataset) in premium capacities. This partially meets the need for some users.
 
 ### #4 - Ability to version-control Datasets on Power BI Service (view changes, rollback to previous version)
 
